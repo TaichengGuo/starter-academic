@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-10-01"
   description = """
-  * Participated in NeurIPS challenge, and **finally ranked 1st among all teams in the public leaderboard**.
-  * Waiting for the end of this competition
+  * Participated in NeurIPS challenge, and ranked 31st worldwide (1st place in the public leaderboard).
+  * Proposed a warm-starting Bayesian Optimization approach, combining Bayesian optimization and meta-learning
   """
 
 [[experience]]
