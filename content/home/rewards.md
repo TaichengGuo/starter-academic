@@ -31,7 +31,7 @@ date_format = "2006"
 [[item]]
   organization = "NeurIPS"
 #  organization_url = "https://www.edx.org"
-  title = "NeurIPS 2020 Black-Box Optimization Challenge: 1st place"
+  title = "NeurIPS 2020 Black-Box Optimization Challenge: 31st place worldwide(1st place in the public leaderboard)"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://bbochallenge.com/leaderboard"
   date_start = "2020-10-01"
