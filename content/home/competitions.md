@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "NeurIPS 2020 Black-Box Optimization Challenge "
   company = "31st place worldwide (1st place in the public leaderboard)"
-  company_url = "https://bbochallenge.com/leaderboard"
+#  company_url = "https://bbochallenge.com/leaderboard"
 # location = "California"
   date_start = "2020-07-01"
   date_end = "2020-10-01"
