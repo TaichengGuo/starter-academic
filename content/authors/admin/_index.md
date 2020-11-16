@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Software Engineering
+  - course: Bachelor Degree of Software Engineering
     institution: Xidian University
     year: 2017
 
