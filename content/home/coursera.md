@@ -27,6 +27,16 @@ date_format = "2006"
   date_start = "2017-06-01"
   date_end = "2020-06-01"
   description = ""
+  
+[[item]]
+  organization = "Coursera"
+  # organization_url = "https://www.coursera.org"
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  #  url = "https://www.edx.org"
+  certificate_url = "https://coursera.org/share/a25781c95197c9fa30f18d7aa9eab832"
+  date_start = "2017-06-01"
+  date_end = "2020-06-01"
+  description = ""
 
 [[item]]
   organization = "Coursera"
