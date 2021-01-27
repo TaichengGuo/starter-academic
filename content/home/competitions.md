@@ -31,13 +31,14 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "NeurIPS 2020 Black-Box Optimization Challenge "
-  company = "31st place worldwide (1st place in the public leaderboard)"
-#  company_url = "https://bbochallenge.com/leaderboard"
+  company = "2nd place in Warm start friendly leaderboard worldwide(1st place in the public leaderboard)"
+  company_url = "https://bbochallenge.com/altleaderboard"
 # location = "California"
   date_start = "2020-07-01"
   date_end = "2020-10-01"
   description = """
-  * Participated in NeurIPS challenge, and ranked 31st worldwide (1st place in the public leaderboard).
+  * Participated in NeurIPS challenge, and **ranked 2nd place in Warm start friendly leaderboard worldwide(1st place in the public leaderboard).**
+  * This is a interesting competition.
   * Proposed a warm-starting Bayesian Optimization approach, combining Bayesian optimization and meta-learning
   """
 
