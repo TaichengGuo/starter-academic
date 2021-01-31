@@ -36,7 +36,7 @@
 [[main]]
   name = "Coursera"
   url = "#coursera"
-  weight = 70d
+  weight = 70
 
 [[main]]
   name = 'Hobby'
