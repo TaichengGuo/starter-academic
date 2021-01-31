@@ -12,7 +12,7 @@ title = "Hobby"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 2000
+weight = 125
 +++
 
 I like jogging, swimming, hiking and soccer. My favorite soccer team is Barcelona.
