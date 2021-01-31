@@ -36,8 +36,12 @@
 [[main]]
   name = "Coursera"
   url = "#coursera"
-  weight = 70
+  weight = 70d
 
+[[main]]
+  name = 'Hobby'
+  url = "#Hobby"
+  weight = 80
 
 #[[main]]
 #  name = "CV(English)"

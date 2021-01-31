@@ -62,6 +62,6 @@ user_groups:
 ---
 
 Now, I'm in my gap year. My research interests include applied machine learning, information retrieval(particularly Recommender Systems), data mining and Big Data Analysis, and NLP. I have participated in and got a good place in premier international data mining and machine learning competitions such as  KDD Cup and NeurIPS Challenge.
-In the future PHD/Master/RA/Visiting student studies, I will cherish the research opportunities and devote myself to research.
+In the future PHD/RA/Visiting student studies, I will cherish the research opportunities and devote myself to research.
 
-❗️❗️❗️I have strong code ability and determination to do research. Also, I'm currently looking for research opportunities including PhD, RA, Master or Visiting student. If you are looking for students to do research together, please contact me taichengguo.gtc@gmail.com. I will be pretty grateful!
+❗️❗️❗️I have strong code ability and determination to do research. Also, I'm currently looking for research opportunities including PhD, RA or Visiting student. If you are looking for students to do research together, please contact me taichengguo.gtc@gmail.com. I will be pretty grateful!
